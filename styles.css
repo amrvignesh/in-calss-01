@@ -6,6 +6,7 @@ p:nth-child(5) {
 
 a {
    font-size: 12px;
+   color: red;
 }
 
 /* TODO: Add styles here */
